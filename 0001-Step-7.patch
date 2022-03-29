@@ -1,0 +1,24 @@
+From 69553baca3eb0310225a3a5781bbd56bef4b70d6 Mon Sep 17 00:00:00 2001
+From: Uladzislau Melnikau <uladzislau_melnikau@epam.com>
+Date: Tue, 29 Mar 2022 09:14:53 +0300
+Subject: [PATCH] Step 7
+
+---
+ 1.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/1.txt b/1.txt
+index f00c965..ee4fe31 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++11
++22
+ 3
+ 4
+ 5
+-- 
+2.33.0.windows.2
+
